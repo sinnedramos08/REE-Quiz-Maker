@@ -1,0 +1,605 @@
+1.   A piece of conductor 10 cm long moves across the magnetic field of 10 kgauss at a velocity of 120 cm/s. What is the voltage across the conductor?
+     A.120 mV                    
+	 B. 0.12 mV                   
+	 C. 1.20 mV                   
+	 D. 12 mV
+
+2.   GMC was created by the Energy Regulatory Commission to monitor the compliance of the users of the Grid to the PGC. What does the GMC stands for?
+     A. Grid Management Committee                             
+	 C. Generation Management Corporation
+     B. Grid Market Commission                                
+	 D. Generator Management Committee
+
+3.   A permeable substance is one
+     A. which is strong magnet
+     B. through which the magnetic lines of force can pass very easily
+     C. which is a good conductor
+     D. which can behave as a conductor as well as an insulator
+
+4.   The illumination of a surface 3.40 m directly below a light source is 25 lux. Find the intensity ofthe light
+     source?
+     A. 231 cd                   
+	 B. 393 cd                    
+	 C. 289 cd                    
+	 D. 347 cd
+
+5.   Two equal charges of opposite signs are separated by a horizontal distance of 70 mm. If the resultant electric field at the midpoint of the line is 4 x 10^4 N/C. What is the magnitude of each charge?
+     A. 2.7 nC                    
+	 B. 4.5 nC                    
+	 C. 2.4 nC                 
+	 D. 3.6 nC
+
+6.   The customer is only charged or credited as the case may be, for the difference between the electricity supplied by the Distribution Utility and electricity it supplies to the Distribution Utility when the times it has excess VRE generation both of which are metered using either 2 unidirectional meters, one for import and one for export, or a single bidirectional meter. What do you call this scheme?
+     A. Market Metering          
+	 B. Net Metering            
+	 C. Import-Export Metering 
+	 D. Dual Metering
+
+7.   Which of the following statement is CORRECT concerning electric ﬁeld?
+     A. Electric field point away from a negatively charged particle
+     B. a charged point particle released from rest moves along a ﬁeld line
+     C. Electric field lines are close together where the ﬁeld is large
+     D. Electric ﬁeld lines may cross
+
+8.   A certain amount of fuel contains 17 x 10^1O BTU of energy. What is the corresponding energy in Gigacalories?
+     A. 47 300                   
+	 B. 45 500                    
+	 C. 42 800                    
+	 D. 49 400
+
+9.   If a tropical storm is going to the Philippine Area of Responsibility (PAR) within 24 hours, what type of alert is to be raised in accordance to the Philippine Grid Code?
+     A. Orange Alert              
+	 B. Blue Alert               
+	 C. Yellow Alert            
+	 D. Red Alert
+
+10. What is the quality factor Q of an RLC series circuit having R = 5 Q, L = 10 mH, and C = 100 uF?
+     A. 3                        
+	 B. 2                         
+	 C. 1                         
+	 D. 4
+
+11. A certain copper wire has a resistance of 25 ohms at 10°C. Take the temperature coefﬁcient at 10'C to be a = 0.00405°C^—1. What must be the maximum operating temperature of the wire if its resistance is to increase by at most 20%?
+    A. 59.24°C               
+	B. 58.80°C                      
+	C. 60.13°C                   
+	D. 59.38°C
+
+12. For any circuit the number of independent equations containing emf’s, resistances, and currents equals the number of:
+    A. branches                 
+	B. junction minus 1          
+	C. branches minus 1          
+	D. junctions
+
+13. In the context of the loop and junctions rules for electrical circuits a junction is where
+    A. a wire is connected to a resistor                     
+	C. a wire is connected to a battery
+    B. where three or more wires are joined                  
+	D. only two wires are joined
+
+
+14. Three equal impedances Za = Zb = Zc = 4 - j7 ohms are connected in wye. Find the equivalent impedance in ohm if these impedances are connected in delta.
+    A. 2.31 -j4.04              
+	B.6-j14                    
+	C.4-j7                     
+	D. 12—j21
+
+15. A 20-uF capacitor and a parallel 200-ohm resistor draws 4 A at 60 Hz. Find the power consumption.
+    A. -0.98 +j1.47 kVA        
+	B. 0.98 - j1.47 kVA        
+	C. 0.98 +j1.47 kVA        
+	D. -0.98 - j1.4T kVA
+
+16. Which of the following statement is FALSE?
+    A. Kernel is the one of component of any OS
+    B. Windows 98 is RTOS
+    C. RTOS performs tasks in predictable amount oftime
+    D. Interrupts are used to develop RTOS
+
+17. Determine the GMR ofa three—equal strands conductors in vertical formation in terms of r of an individual strand.
+    A. 1.9307r             
+	B. 1.6696r                
+	C. 1.8149r                   
+	D. 1.7036r
+
+18. Two wattmeters connected to measure power read W1 = 30 kW and W2 = 55 kW. What is the power factor?
+    A. 0.981                
+	B. 0.819                
+	C. 0.918               
+	D. 0.891
+
+19. A cylindrical copper rod has resistance R. It is reformed to twice its original length with NO change of volume. What is its new resistance?
+    A. 6R                       
+	B. 4R                      
+	C. 2R                      
+	D. 8R
+
+20. DMC was created by the Energy Regulatory Commission to monitor the compliance of the distribution utilities to the PDC. DMC stands for                     .
+    A. Distribution Market Commission               
+	C. Distribution Market Committee
+    B. Distribution Management Commission           
+	D. Distribution Management Committee
+
+21. The rms value of an ac current is:
+    A.   that steady current that will charge a battery at the same rate as the actual current
+    B.   its average value
+    C.   that steady current that produces the same rate of heating in a resistor as the actual current
+    D.   its peak value
+
+22. A 100-kVA, 20/5 kV transformer has an equivalent impedance of 10%. Calculate the impedance (in ohm/s) of the transformer referred to the 5 kV side.
+A. 25                       
+B. 200                     
+C. 400                     
+D. 50
+
+23. Which of the following refers to the power loss due to alternating magnetization and demagnetization of the core material?
+    A. Eddy-current loss        
+	B. No-load loss            
+	C. Copper loss             
+	D. Hysteresis loss
+
+24. Two coils have self-inductances of 5 H and 1 H, the mutual inductance being zero. If the two coils are in series, what is the total inductance will be?
+    A.5H                        
+	B.4H                       
+	C.12H                      
+	D.6H
+
+25. Which of the following is the correct statement about coulomb?
+    A. The quantity of charge that will exert a force of 1 N on a similar charge at a distance of one meter.
+    B. An abbreviation for a certain combination of kilogram, meter and second.
+    C. One ampere per second.
+    D. The amount of charge that flows past a point in one second when the current is one ampere
+
+26. A capacitor of 2 uF with an initial charge of q0 = 100 x 10‘6 coulombs is connected across the terminals of a 100 ohm resistor at t = 0. Calculate the time in which the transient voltage across the resistor drops from 40 to 10 volts.
+    A. 77.24 ps                 
+	B. 277.4 ps                
+	C. 277.4 ms                
+	D. 77.24 ms
+
+27. When a dc motor has no-Ioad, what will happen to the back emf?
+    A. increases                
+	B. reduces                 
+	C. becomes zero            
+	D. becomes maximum
+
+28. A 300—kW 250—volt 8—pole generator has a simplex lap winding. Determine the voltage generated per path.
+    A. 62.5v                  
+	B. 31.25v                
+	C.250v                    
+	D. 125v
+
+
+29. A 4-pole, 50-cycle, three-phase induction motor has a blocked-rotor reactance per phase that is fourtimes the rotor resistance per phase. At what speed will the motor develop maximum torque?
+    A. 1,150 rpm               
+	B. 1,250 rpm               
+	C. 1,125 rpm             
+	D. 1,500 rpm
+
+30. Synchronizing power ofa synchronous machine is
+    A. directly proportional to the square of the synchronous reactance
+    B. directly proportional to the synchronous reactance
+    C. equal to synchronous reactance
+    D. inversely proportional to the synchronous reactance
+
+31. It is a device which functions on failure of a machine, transformer or of other apparatus to ground or on flash over ofa dc machine to ground.
+    A. grounding reactor relay                             
+	C. overhead ground relay
+    B. ground protective relay                             
+	D. ground insulation relay
+
+32. The total load on any overcurrent device located in a panelboard shall not exceed of its rating where the normal operation the load will continue for three hours or more.
+    A. 80%                     
+	B. 70%                      
+	C. 50%                       
+	D. 125%
+
+33. The region or area in a transistor that is heavily doped.
+    A. base                    
+	B. collector                 
+	C. at thejunction           
+	D. emitter
+
+34. It is possible to increase the field ﬂux and, at the same time, increase the speed of a dc motor provided its is held constant.
+    A. torque                                               
+	C. applied voltage
+    B. armature current                                     
+	D. armature circuit resistance
+
+35. It is considered as the heart ofa dc machine.
+    A. armature winding         
+	B. ﬁeld winding            
+	C. stator                    
+	D. armature
+
+36. A 3-phase motor takes 10 kva at 0.6 pf lagging from a source of 220-V. It is in parallel with a balanced delta-load having 16 Q resistance and —j12 Q reactance in series in each phase. Find the total line current of the combination.
+    A. 23.4A                   
+	B. 24.3A                    
+	C. 42.3A                     
+	D. 32.4A
+
+37. Twenty tons of water are heated in 12 hours. If water is to be heated from 25°C to 95'C, find the KW rating of the heater if its efficiency is 92%.
+    A. 120 KW                  
+	B. 175 KW                   
+	C. 150 KW                    
+	D. 80 KW
+
+38. The current in an inductor is given by i = 5 + 16t amperes. The self-induced emf in it is 10 mv. Find the energy stored in the inductor at t = 1 second.
+    A. 13.78 m]                
+	B. 137.8 mJ                 
+	C. 1,378 mJ                  
+	D. 1.378 mJ
+
+39. Two generators GI and G2 are rated 15 MVA, Z equals 0.10, 11 kV and 10 MVA, 2 equals 0.10, 11 kV, respectively. The generators are connected to a transformer of 15 MVA, 11 per 66 kV and 6 percent impedance. Calculate the fault current in per unit when three-phase fault occurs on the high voltage side of the transformer.
+    A. 16.9                    
+	B. 12.5                     
+	C. 8.33                      
+	D. 14.2
+
+40. While describing the sheath ofa cable, the abbreviation XLPE means polyethylene.
+    A. extra-long             
+	B. cross-linked            
+	C. external-layer              
+	D. cross-layer
+
+41. Conduction electrons move to the right in a certain wire. This indicates that:
+    A. the current density and electric ﬁeld both point right
+    B. the current density points right and the electric field points left
+    C. the current density and electric field both point left
+    D. the current density points left and the electric ﬁeld points right
+
+42. If |VS| = |VR| = 33 kV (three-phase) and X = 13 ohm per phase, what will be the maximum power transmission per phase?
+    A. 30 MW                   
+	B. 60 MW                    
+	C. 28 MW                     
+	D. 29 MW
+
+43. Conductors supplying two or more motors shall have an ampacity equal to the sum of the following current rating of all the motors plus   % of the highest rated motor in the group.
+    A. 80                      
+	B. 100                     
+	C. 25                        
+	D. 125
+
+
+44. A power plant gets water from a dam from a height of 100 meters at the rate of 1,000 cubic meters per minute. If the overall efficiency of the plant is 75%, what is the kW output of the plant?
+    A. 12,250 kW               
+	B. 5,250 kW                  
+	C. 7,550 kW                    
+	D. 15,250 kW
+
+45. Megger essentially is a
+    A. megohmmeter             
+	B. dynamometer               
+	C. series-type ohmmeter 
+	D. shunt-type ohmmeter
+
+46. Which of the following cannot have a single unit of 100 MW?
+    A. Steam power plant       
+	B. Diesel power plant      
+	C. Hydro power plant             
+	D. Nuclear power plant
+
+47. Chemicals with lower flash points present a greater                                .
+    A. Skin hazard            
+	B. Explosion hazard       
+	C. Personal hazard                 
+	D. Flammability hazard
+
+48. Calculate the reading which would be indicated by a hot-wire ammeter in a circuit whose current waveform is given by 10 sin wt + 3 sin 3wt + 2 sin 5L0t.
+    A. 3.54A                   
+	B. 10.63A                    
+	C. 5A                          
+	D. 7.52A
+
+49. A capacitor of 0.0005 HP is to be formed from tin foils, measuring 3 cm by 1.5 cm. the dielectric to be used is 0.5 mm mica film. Determine the number of tin foils required. The relative permittivity of mica is 4.5.
+    A.17                        
+	B.12                         
+	C. 14                          
+	D.15
+
+50. The power plant has a peak demand of 90 MW, capacity factor of 0.50, use factor of 0.80 and load factor of 0.60. Find the plant installed capacity.
+    A.110 MW                   
+	B.105 MW                     
+	C.115MW                       
+	D.108MW
+
+51. What is the maximum number of conductors in a raceway that does not need to be derated?
+    A. 5                   
+	B. 4                      
+	C. 2                      
+	D. 3
+
+52. Which of the following type of fault used only the equivalent positive sequence impedance of the circuit in the short-circuit calculation?
+    A. Three-phase fault         
+	B. Line to ground         
+	C. Line to line           
+	D. Double line to ground
+
+53. Calculate the force developed per meter length between two current-carrying conductors 10 cm apart and carrying 1,000 A and 1,500 A currents respectively.
+    A.1N                       
+	B.4N                         
+	C.3N                           
+	D.2N
+
+54. Which of the following insulators will be selected for high voltage application?
+    A. disc type               
+	B. pin type                  
+	C. suspension type             
+	D. strain type
+
+55. Base load plants are designed to supply power at
+    A. high capital cost and high operating cost            
+	C. high capital cost and low operating cost
+    B. low capital cost and low operating cost              
+	D. low capital cost and high operating cost
+
+56. A sine wave has a frequency of 60 Hz. Its angular frequency is
+    A. 120pi                 
+	B. 30pi                      
+	C. 6pi                          
+	D. 60pi
+
+57. In an ABC sequence balanced 3phase system, the angle between the line voltage and the line current is 50°, what is the lagging power factor of the system?
+    A. 0.34                    
+	B. 0.64                      
+	C. 0.54                        
+	D. 0.94
+
+58. In a 15—v battery supplies 10A, ﬁnd the amount of energy in KJ delivered in one hour.
+    A. 120                     
+	B. 216                   
+	C. 432                     
+	D. 540
+
+59. Three impedances Z1 = 3 + j5, Z2 = 6<20, and Z3 = 4<-30° Ohm are connected in delta. Find the transform delta impedance into the Y impedance Za Zb and Zc (ACB sequence).
+    A. Za = 2.67<56.4° , Zb = 1.83<-32.7° and Zc = 1.78<6.38° ohms
+    B. Za = 1.83<—32.7°, Zb = 2.67<56.4°  and Zc = 1.78<6.38° ohms
+    C. Za = 2.67<56.4°,  Zb = 1.78<6.38°  and Zc = 1.83<-32.7° ohms
+    D. Za = 1.78<6.38°,  Zb = 1.83<-32.7° and ZC = 2.67<56.4° ohms
+
+60. A straight conductor 100 cm long and carrying a current of 40 A lies perpendicular to a magnetic field of 1.5 Wb/m2. What is the mechanical power in watt/s required to move the conductor at a uniform speed of 6 m/s?
+    A. 330 W                   
+	B. 360 W                     
+	C. 390 W                       
+	D. 300 W
+
+61. A magnetizing force of 1,000 AT/m will produce a flux density of           in air.
+    A. 1.257 mT                 
+	B. 0.63 T                    
+	C. 0.63 mT                  
+	D. 1.257 T
+
+62. If copper loss ofa transformer at 7/8th of full-load is 4,900 W, then what is its full-load copper loss?
+    A. 429 W                    
+	B. 5,600 W                   
+	C. 375 W                    
+	D. 6,400 W
+
+63. A series RLC circuit consists of 20 ohms resistance, 0.2 H inductance and an unknown capacitance. What is the value of the capacitance if the circuit has a leading angle of 45° at 60 HZ?
+    A. 3518 pF                  
+	B. 27.8 pF                   
+	C. 30.7 uF                
+	D. 47.9 uF
+
+64. A 3-phase circuit 60 HZ, 230 kV transposed transmission line is composed of two 1,272 MCM 54/19 conductors per phase with horizontal configuration. The bundle conductors are 50 cm in distance while phase spacing between the centers of the bundle is 10 meters. If the GMR of the ACSR conductors is 0.0466 ft, find the inductive reactance in ohm/km/phase of the transmission line?
+    A. 0.3398                   
+	B. 0.3775                
+	C. 0.3628                 
+	D. 0.3964
+
+65. Two single phase transformers each rated 75 kVA are connected in V or open-delta to serve a three-phase load of 120 kW at 0.80 power factor lagging. To prevent the overloading of transformers, determine the size of the capacitor in kVAR.
+    A. 20                       
+	B. 30                        
+	C. 40                       
+	D. 50
+
+66. Which is not a characteristic of an ideal transformer?
+    A. no losses                
+	B. infinite permeability     
+	C. no leakage flux          
+	D. finite permeability
+
+67. What is the IEEE device function number 50?
+    A. Differential protective relay                         
+	C. Instantaneous overcurrent relay
+    B. AC circuit breaker                                    
+	D. AC time overcurrent relay
+
+68. A transformer has negligible resistance and a p.u. reactance of 0.1 . What is its voltage regulation on full load with a leading of. angle of 30°?
+    A. -5%                     
+	B. —10%                       
+	C. 10%                      
+	D. 5%
+
+69. Transformer breaths in when
+    A. none of these         
+	B. load on it increases         
+	C. load on it decreases     
+	D. load remains constant
+
+70. The color reserved for use in equipment grounding conductor is
+    A. Yellow                   
+	B. White                    
+	C. Green                  
+	D. Gray
+
+71. Joule found out that the heat produced in a current carrying conductor is proportional to
+    A. the square of resistance                    
+	C. the square of the current
+    B. the current                                   
+	D. inversely proportional to time
+
+
+72. Three capacitances C1 = 6 uF, C2 = 7 uF and C3 = 18 uF are connected in series across a 120 v supply. Find the voltage across C3.
+    A. 18.26 v                 
+	B. 1.826 v              
+	C. 54.78 v                
+	D. 5.478 v
+
+73. The applied voltage in a transformer is increased by 50% and frequency is reduced by 50%. The maximum core flux density will become.
+    A. same                    
+	B. 3 times                
+	C. 1.5 times             
+	D. 5 times
+
+74. A battery is used to charge a parallel-plate capacitor, after which it is disconnected. Then the plates are pulled apart to twice their original separation. This process will double the:
+    A. electric field between the two places               
+	C. stored energy
+    B. surface charge density on each plate      
+	D. capacitance
+
+75. Suppose the electric company charges 10 cents per kW-h. How much does it cost to use a 125 W lamp 4 hours a day for 30 days?
+    A. $7.20       
+	B. $1.80                   
+	C. $1.20                   
+	D. $1.50
+
+76. A step—down transformer is used to:
+    A. decrease the voltage 
+	B. decrease the power     
+	C. increase the power     
+	D. increase the voltage
+
+77. Iron, rather than copper, is used in the core of transformers because iron:
+    A. has a very high permeability            
+	C. insulates the primary from the secondary
+    B. can withstand a higher temperature        
+	D. makes a good permanent magnet
+
+
+78. The primary of a 3 : 1 step-up transformer is connected to a source and the secondary is connected to a resistor R. The power dissipated by R in this situation is P. If R is connected directly to the source it will dissipate a power of:
+    A. 9P   
+	B. P/9              
+	C. 3P                   
+    D. P/3
+
+79. What is the maximum power that can be drawn from a 12-V battery that has an internal resistance of 0.25 ohm
+    A. 576 W               
+	B. 72 W                 
+	C. 288 W                
+	D. 144 W
+
+80. A 2-H inductor, a 430-ohm resistor, and a 50V source have been connected in series for a long time. What is the energy stored in the inductor?
+    A. 6.62 mJ          
+	B. 13.5 mJ               
+    C. 3.31 mJ                 
+	D. 27 mJ
+
+81. A coil energized by 120 V at 60 Hz draws a 2A current that lags the applied voltage by 40deg. What are the coil resistance and inductance?
+    A.R=64ohm;   L=0.201H                    
+	C.R=38.6ohm; L=0.170H
+    B.R=46ohm;   L=0.102H                                  
+	D.R=83.6ohm; L=0.710H
+
+82. The tesla is a unit of
+    A. inductance            
+	B. magnetic flux density
+	C. capacitance                
+	D. permittivity
+
+83. Which of the following statements regarding the motion ofa conductor through a changing magnetic field is FALSE?
+    A. When a conductor is "open-circuited", no current flows despite its motion through the field.
+    B. The conductor must move at constant velocity in order to generate a current
+    C. A current ﬂowing counter to the direction of the conductor's motion will create a torque.
+    D. The lines of magnetic flux pass from the north pole to the south pole of the magnet.
+
+84. A DC system can be protected from lightning by including a thyrite tube in the circuit that connects the high-voltage line with the ground. Which of the following is FALSE regarding a thyrite tube?
+    A. Its tusable link melts at high voltages.
+    B. It has a very fast recovery time with regard to voltage change.
+    C. Its resistance becomes low at very high voltages.
+    D. It maintains a very high resistance at or below the system operating voltage.
+
+85. Which of the following statements regarding transformers is FALSE?
+    A.   One three-phase transformer weighs more than three equivalent single-phase transformers.
+    B.   Transformer power losses are generally low, approximately 1 - 3%.
+    C.   Power losses in transformers are converted to heat, which is then dissipated.
+    D.   The copper losses (IZR) in the primary and secondary coils are equal.
+
+86. An ideal step-up transformer with a power factor of 1.0 is used between a 120 Vrms supply and 10 ohm resistor with the supply at the primary. The turns ratio is 70. What is most nearly the average power dissipated due to resistance R?
+    A. 17 W            
+	B. 7.1 MW            
+	C. 84 kW                 
+	D. 29 W
+
+87. A system operates at 220 kVA and 11 kV. Using this quantities as base values, ﬁnd the base current for the system.
+    A. 35A                  
+	B. 25A                
+	C. 20A                 
+	D. 30A
+
+88. For an existing a.c. transmission line the string efficiency is 80%. Now if d.c. voltage is supplied for the same set up, the string efficiency will be:
+    A. 80%          
+	B. Less than 80%         
+	C. 100%                 
+    D. More than 80%
+
+89. The inductance per unit length of an overhead line due to internal ﬂux linkages
+    A. depends on the current through the conductor
+    B. is independent of the size of conductor and constant
+    C. depends on the size of the conductor
+    D. depends on distance between conductors.
+
+90. High permittivity ceramic is used for capacitors of
+    A. Afew nF to a few hundred nF                     
+	C. A few pF to a few hundred pF
+    B. Afew mF to a few hundred mF           
+	D. A few uF to a few hundred uF
+
+91. What are the causes of gross error in the instruments? 1. Misreading of instruments 2. Incorrect adjustment of instruments 3. Errors due to defective instruments 4. Errors due to effort of environment on the instrument
+    A.3and1                 
+	B.4and1                 
+	C.2and3                
+	D.1and2
+
+92. What is the potential energy stored in the electric field ofa 200-uF capacitor when it is charged to a voltage of 2400 V?
+    A. 480 J          
+	B. 576 J             
+	C. 1152 J             
+	D. 960 J
+
+93. What is the equivalent capacitance for capacitors of4, 7, and 12 uF connected in parallel?
+    A. 23.0 uF    
+	B. 2.30 uF        
+	C. 21.0 uF           
+	D. 2.10 uF
+
+94. The phase shift between the current and voltage vectors is due to the following except one
+    A. power capacitors     
+	B. electric flat iron    
+	C. magnet coils         
+    D. fluorescent lamp
+
+95. An alternating voltage is given by v = 100 sin 314t volts. Its average value will be                  .
+    A. 50 V          
+	B. 100 V            
+	C. 63.7 V            
+	D. 70.7 V
+
+96. It is desired to have a constant direct current i(t) through the ideal inductor L. The nature of the voltage source v(t) must
+    A. exponentially increasing voltage      
+	C. linearly increasing voltage
+    B. an ideal impulse                    
+	D. constant voltage
+
+97. The ordinary efficiency of a given transformer is maximum when
+    A. it runs at full-load       
+	C. it runs at half full-load
+    B. it runs slightly overload            
+	D. its Cu loss equals iron loss
+
+98. Receptacles installed on 15— and 20—ampere branch circuits must always be of what type?
+    A. Grounding type      
+	B. Duplex receptacles    
+    C. Twist-lock receptacles 
+	D. Three-prong type
+
+99. In a circuit breaker the time duration from the instant of fault to the instant of energizing ofthe trip coil is known as
+    A. lag time           
+	B. protection time        
+	C. lead time   
+	D. operation time
+
+100. Over voltage protection is recommended for
+    A. steam turbine generators                    
+	C. all of these
+    B. hydro-electric generators              
+	D. gas turbine generators

@@ -1,0 +1,31 @@
+Number~Question~A~B~C~D
+71~Joule found out that the heat produced in a current carrying conductor is proportional to~the square of resistance~the square of the current~the current~inversely proportional to time
+72~Three capacitances C1 = 6 uF, C2 = 7 uF and C3 = 18 uF are connected in series across a 120 v supply. Find the voltage across C3.~18.26 v~1.826 v~54.78 v~5.478 v
+73~The applied voltage in a transformer is increased by 50% and frequency is reduced by 50%. The maximum core flux density will become.~same~3 times~1.5 times~5 times
+74~A battery is used to charge a parallel-plate capacitor, after which it is disconnected. Then the plates are pulled apart to twice their original separation. This process will double the:~electric field between the two places~stored energy~surface charge density on each plate~capacitance
+75~Suppose the electric company charges 10 cents per kW-h. How much does it cost to use a 125 W lamp 4 hours a day for 30 days?~$7.20~$1.80~$1.20~$1.50
+76~A step—down transformer is used to:~decrease the voltage~decrease the power~increase the power~increase the voltage
+77~Iron, rather than copper, is used in the core of transformers because iron:~has a very high permeability~insulates the primary from the secondary~can withstand a higher temperature~makes a good permanent magnet
+78~The primary of a 3 : 1 step-up transformer is connected to a source and the secondary is connected to a resistor R. The power dissipated by R in this situation is P. If R is connected directly to the source it will dissipate a power of:~9P~P/9~3P~P/3
+79~What is the maximum power that can be drawn from a 12-V battery that has an internal resistance of 0.25 ohm~576 W~72 W~288 W~144 W
+80~A 2-H inductor, a 430-ohm resistor, and a 50V source have been connected in series for a long time. What is the energy stored in the inductor?~6.62 mJ~13.5 mJ~3.31 mJ~27 mJ
+81~A coil energized by 120 V at 60 Hz draws a 2A current that lags the applied voltage by 40deg. What are the coil resistance and inductance?~R=64ohm;   L=0.201H~R=38.6ohm; L=0.170H~R=46ohm;   L=0.102H~R=83.6ohm; L=0.710H
+82~The tesla is a unit of~inductance~magnetic flux density~capacitance~permittivity
+83~Which of the following statements regarding the motion ofa conductor through a changing magnetic field is FALSE?~When a conductor is "open-circuited", no current flows despite its motion through the field.~The conductor must move at constant velocity in order to generate a current~A current ﬂowing counter to the direction of the conductor's motion will create a torque.~The lines of magnetic flux pass from the north pole to the south pole of the magnet.
+84~A DC system can be protected from lightning by including a thyrite tube in the circuit that connects the high-voltage line with the ground. Which of the following is FALSE regarding a thyrite tube?~Its tusable link melts at high voltages.~It has a very fast recovery time with regard to voltage change.~Its resistance becomes low at very high voltages.~It maintains a very high resistance at or below the system operating voltage.
+85~Which of the following statements regarding transformers is FALSE?~One three-phase transformer weighs more than three equivalent single-phase transformers.~Transformer power losses are generally low, approximately 1 - 3%.~Power losses in transformers are converted to heat, which is then dissipated.~The copper losses (IZR) in the primary and secondary coils are equal.
+86~An ideal step-up transformer with a power factor of 1.0 is used between a 120 Vrms supply and 10 ohm resistor with the supply at the primary. The turns ratio is 70. What is most nearly the average power dissipated due to resistance R?~17 W~7.1 MW~84 kW~29 W
+87~A system operates at 220 kVA and 11 kV. Using this quantities as base values, ﬁnd the base current for the system.~35A~25A~20A~30A
+88~For an existing a.c. transmission line the string efficiency is 80%. Now if d.c. voltage is supplied for the same set up, the string efficiency will be:~80%~Less than 80%~100%~More than 80%
+89~The inductance per unit length of an overhead line due to internal ﬂux linkages~depends on the current through the conductor~is independent of the size of conductor and constant~depends on the size of the conductor~depends on distance between conductors.
+90~High permittivity ceramic is used for capacitors of~Afew nF to a few hundred nF~A few pF to a few hundred pF~Afew mF to a few hundred mF~A few uF to a few hundred uF
+91~What are the causes of gross error in the instruments? 1. Misreading of instruments 2. Incorrect adjustment of instruments 3. Errors due to defective instruments 4. Errors due to effort of environment on the instrument~3and1~4and1~2and3~1and2
+92~What is the potential energy stored in the electric field ofa 200-uF capacitor when it is charged to a voltage of 2400 V?~480 J~576 J~1152 J~960 J
+93~What is the equivalent capacitance for capacitors of4, 7, and 12 uF connected in parallel?~23.0 uF~2.30 uF~21.0 uF~2.10 uF
+94~The phase shift between the current and voltage vectors is due to the following except one~power capacitors~electric flat iron~magnet coils~fluorescent lamp
+95~An alternating voltage is given by v = 100 sin 314t volts. Its average value will be~50 V~100 V~63.7 V~70.7 V
+96~It is desired to have a constant direct current i(t) through the ideal inductor L. The nature of the voltage source v(t) must~exponentially increasing voltage~linearly increasing voltage~an ideal impulse~constant voltage
+97~The ordinary efficiency of a given transformer is maximum when~it runs at full-load~it runs at half full-load~it runs slightly overload~its Cu loss equals iron loss
+98~Receptacles installed on 15— and 20—ampere branch circuits must always be of what type?~Grounding type~Duplex receptacles~Twist-lock receptacles~Three-prong type
+99~In a circuit breaker the time duration from the instant of fault to the instant of energizing ofthe trip coil is known as~lag time~protection time~lead time~operation time
+100~Over voltage protection is recommended for~steam turbine generators~all of these~hydro-electric generators~gas turbine generators

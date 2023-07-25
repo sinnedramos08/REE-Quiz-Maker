@@ -1,0 +1,20 @@
+Number~Question~A~B~C~D
+22~A 100-kVA, 20/5 kV transformer has an equivalent impedance of 10%. Calculate the impedance (in ohm/s) of the transformer referred to the 5 kV side.~25~200~400~50
+23~Which of the following refers to the power loss due to alternating magnetization and demagnetization of the core material?~Eddy-current loss~No-load loss~Copper loss~Hysteresis loss
+24~Two coils have self-inductances of 5 H and 1 H, the mutual inductance being zero. If the two coils are in series, what is the total inductance will be?~5H~4H~12H~6H
+25~Which of the following is the correct statement about coulomb?~The quantity of charge that will exert a force of 1 N on a similar charge at a distance of one meter.~An abbreviation for a certain combination of kilogram, meter and second.~One ampere per second.~The amount of charge that flows past a point in one second when the current is one ampere
+26~A capacitor of 2 uF with an initial charge of q0 = 100 x 10‘6 coulombs is connected across the terminals of a 100 ohm resistor at t = 0. Calculate the time in which the transient voltage across the resistor drops from 40 to 10 volts.~77.24 ps~277.4 ps~277.4 ms~77.24 ms
+27~When a dc motor has no-Ioad, what will happen to the back emf?~increases~reduces~becomes zero~becomes maximum
+28~A 300—kW 250—volt 8—pole generator has a simplex lap winding. Determine the voltage generated per path.~62.5v~31.25v~250v~125v
+29~A 4-pole, 50-cycle, three-phase induction motor has a blocked-rotor reactance per phase that is four times the rotor resistance per phase. At what speed will the motor develop maximum torque?~1,150 rpm~1,250 rpm~1,125 rpm~1,500 rpm
+30~Synchronizing power of a synchronous machine is~directly proportional to the square of the synchronous reactance~directly proportional to the synchronous reactance~equal to synchronous reactance~inversely proportional to the synchronous reactance
+31~It is a device which functions on failure of a machine, transformer or of other apparatus to ground or on flash over of a dc machine to ground.~grounding reactor relay~overhead ground relay~ground protective relay~ground insulation relay
+32~The total load on any overcurrent device located in a panelboard shall not exceed of its rating where the normal operation the load will continue for three hours or more.~80%~70%~50%~125%
+33~The region or area in a transistor that is heavily doped.~base~collector~at the junction~emitter
+34~It is possible to increase the field flux and, at the same time, increase the speed of a dc motor provided its is held constant.~torque~applied voltage~armature current~armature circuit resistance
+35~It is considered as the heart of a dc machine.~armature winding~field winding~stator~armature
+36~A 3-phase motor takes 10 kva at 0.6 pf lagging from a source of 220-V. It is in parallel with a balanced delta-load having 16 Q resistance and —j12 Q reactance in series in each phase. Find the total line current of the combination.~23.4A~24.3A~42.3A~32.4A
+37~Twenty tons of water are heated in 12 hours. If water is to be heated from 25°C to 95'C, find the KW rating of the heater if its efficiency is 92%.~120 KW~175 KW~150 KW~80 KW
+38~The current in an inductor is given by i = 5 + 16t amperes. The self-induced emf in it is 10 mv. Find the energy stored in the inductor at t = 1 second.~13.78 mJ~137.8 mJ~1,378 mJ~1.378 mJ
+39~Two generators GI and G2 are rated 15 MVA, Z equals 0.10, 11 kV and 10 MVA, 2 equals 0.10, 11 kV, respectively. The generators are connected to a transformer of 15 MVA, 11 per 66 kV and 6 percent impedance. Calculate the fault current in per unit when three-phase fault occurs on the high voltage side of the transformer.~16.9~12.5~8.33~14.2
+40~While describing the sheath of a cable, the abbreviation XLPE means polyethylene.~extra-long~cross-linked~external-layer~cross-layer

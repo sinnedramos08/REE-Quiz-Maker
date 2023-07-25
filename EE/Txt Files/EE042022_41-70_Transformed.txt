@@ -1,0 +1,31 @@
+Number~Question~A~B~C~D
+41~Conduction electrons move to the right in a certain wire. This indicates that:~the current density and electric ﬁeld both point right~the current density points right and the electric field points left~the current density and electric field both point left~the current density points left and the electric ﬁeld points right
+42~If |VS| = |VR| = 33 kV (three-phase) and X = 13 ohm per phase, what will be the maximum power transmission per phase?~30 MW~60 MW~28 MW~29 MW
+43~Conductors supplying two or more motors shall have an ampacity equal to the sum of the following current rating of all the motors plus   % of the highest rated motor in the group.~80~100~25~125
+44~A power plant gets water from a dam from a height of 100 meters at the rate of 1,000 cubic meters per minute. If the overall efficiency of the plant is 75%, what is the kW output of the plant?~12,250 kW~5,250 kW~7,550 kW~15,250 kW
+45~Megger essentially is a~megohmmeter~dynamometer~series-type ohmmeter~shunt-type ohmmeter
+46~Which of the following cannot have a single unit of 100 MW?~Steam power plant~Diesel power plant~Hydro power plant~Nuclear power plant
+47~Chemicals with lower flash points present a greater~Skin hazard~Explosion hazard~Personal hazard~Flammability hazard
+48~Calculate the reading which would be indicated by a hot-wire ammeter in a circuit whose current waveform is given by 10 sin wt + 3 sin 3wt + 2 sin 5L0t.~3.54A~10.63A~5A~7.52A
+49~A capacitor of 0.0005 HP is to be formed from tin foils, measuring 3 cm by 1.5 cm. the dielectric to be used is 0.5 mm mica film. Determine the number of tin foils required. The relative permittivity of mica is 4.5.~17~12~14~15
+50~The power plant has a peak demand of 90 MW, capacity factor of 0.50, use factor of 0.80 and load factor of 0.60. Find the plant installed capacity.~110 MW~105 MW~115 MW~108 MW
+51~What is the maximum number of conductors in a raceway that does not need to be derated?~5~4~2~3
+52~Which of the following type of fault used only the equivalent positive sequence impedance of the circuit in the short-circuit calculation?~Three-phase fault~Line to ground~Line to line~Double line to ground
+53~Calculate the force developed per meter length between two current-carrying conductors 10 cm apart and carrying 1,000 A and 1,500 A currents respectively.~1N~4N~3N~2N
+54~Which of the following insulators will be selected for high voltage application?~disc type~pin type~suspension type~strain type
+55~Base load plants are designed to supply power at~high capital cost and high operating cost~high capital cost and low operating cost~low capital cost and low operating cost~low capital cost and high operating cost
+56~A sine wave has a frequency of 60 Hz. Its angular frequency is~120pi~30pi~6pi~60pi
+57~In an ABC sequence balanced 3-phase system, the angle between the line voltage and the line current is 50°, what is the lagging power factor of the system?~0.34~0.64~0.54~0.94
+58~In a 15—v battery supplies 10A, ﬁnd the amount of energy in KJ delivered in one hour.~120~216~432~540
+59~Three impedances Z1 = 3 + j5, Z2 = 6<20, and Z3 = 4<-30° Ohm are connected in delta. Find the transform delta impedance into the Y impedance Za Zb and Zc (ACB sequence).~Za = 2.67<56.4° , Zb = 1.83<-32.7° and Zc = 1.78<6.38° ohms~Za = 1.83<—32.7°, Zb = 2.67<56.4°  and Zc = 1.78<6.38° ohms~Za = 2.67<56.4°,  Zb = 1.78<6.38°  and Zc = 1.83<-32.7° ohms~Za = 1.78<6.38°,  Zb = 1.83<-32.7° and ZC = 2.67<56.4° ohms
+60~A straight conductor 100 cm long and carrying a current of 40 A lies perpendicular to a magnetic field of 1.5 Wb/m2. What is the mechanical power in watt/s required to move the conductor at a uniform speed of 6 m/s?~330 W~360 W~390 W~300 W
+61~A magnetizing force of 1,000 AT/m will produce a flux density of in air.~1.257 mT~0.63 T~0.63 mT~1.257 T
+62~If copper loss of a transformer at 7/8th of full-load is 4,900 W, then what is its full-load copper loss?~429 W~5,600 W~375 W~6,400 W
+63~A series RLC circuit consists of 20 ohms resistance, 0.2 H inductance and an unknown capacitance. What is the value of the capacitance if the circuit has a leading angle of 45° at 60 HZ?~3518 pF~27.8 pF~30.7 uF~47.9 uF
+64~A 3-phase circuit 60 HZ, 230 kV transposed transmission line is composed of two 1,272 MCM 54/19 conductors per phase with horizontal configuration. The bundle conductors are 50 cm in distance while phase spacing between the centers of the bundle is 10 meters. If the GMR of the ACSR conductors is 0.0466 ft, find the inductive reactance in ohm/km/phase of the transmission line?~0.3398~0.3775~0.3628~0.3964
+65~Two single phase transformers each rated 75 kVA are connected in V or open-delta to serve a three-phase load of 120 kW at 0.80 power factor lagging. To prevent the overloading of transformers, determine the size of the capacitor in kVAR.~20~30~40~50
+66~Which is not a characteristic of an ideal transformer?~no losses~infinite permeability~no leakage flux~finite permeability
+67~What is the IEEE device function number 50?~Differential protective relay~Instantaneous overcurrent relay~AC circuit breaker~AC time overcurrent relay
+68~A transformer has negligible resistance and a p.u. reactance of 0.1 . What is its voltage regulation on full load with a leading angle of 30°?~-5%~-10%~10%~5%
+69~Transformer breaths in when~none of these~load on it increases~load on it decreases~load remains constant
+70~The color reserved for use in equipment grounding conductor is~Yellow~White~Green~Gray
