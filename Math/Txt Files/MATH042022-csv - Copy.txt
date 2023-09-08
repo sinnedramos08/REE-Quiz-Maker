@@ -1,0 +1,66 @@
+Questions~A~B~C~D
+If f(x, y) n x2 + yz, find the rate of change of f(x, y) in the direction pi/4 at (3, 2).~5.77~7.07~7.70~7.57
+A point P within an equilateral triangle has a distance of 4, 5, and 6 units respectively from the vertices. Determine the lengths of the sides of the equilateral triangle.~8.35~8.53~8.93~8.39
+In the oblique triangle ABC, side a = 6 cm, A = 38°, and C = 120°. Find side b.~22 cm~8.44 cm~6 cm~3.65 cm
+Find the mass of the lamina of density 6(x,y) = x"2 that occupies the region R bounded by the parabola y = 2 — x"2 and the line y = x.~2.18~2.81~3.15~3.51
+If Jim and Jerry work together they can finish a job in 4 hours. If working alone takes Jim 10 hours to finish the job, how many hours would it take Jerry to do the job alone?~5.6~6.7~16~6.0
+A hand soap manufacturer introduced a new liquid, lotion-enriched, antibacterial soap and conducted an extensive consumer survey to help judge the success of the new product. The survey showed 40% of the consumers had seen an advertisement for the new soap, 20% had tried the new soap, and 15% had both seen an advertisement and tried the new soap. lfa randomly selected consumer has seen an advertisement for the new soap, what is the probability that this consumer has tried the new soap?~37.5%~25%~72%~40%
+With 17 consonants and 5 vowels, how many words of four letters can be formed having 2 different vowels in the middle and 1 consonant (repeated or different) at each end?~5790~5780~5795~5785
+A and B can do a piece of work in 5 days, B and C in 4 days, while A and C in 2.5 days. In how many days can all of them do the work together? Troubleshoot: 5 days —> 3 days~1.02~2.03~3.17~3.83
+Describe the locus represented by | z —i | = 2.~hyperbola~circle~ellipse~parabola
+Evaluate the inverse Laplace transform of 6 over (5A2 +4).~3 cosh 2t~3 sinh 2t~cos 2t~3 sin 2t
+What is the value of k so that 2x2 + kx — 15 = 0 has one root = 3?~1~—2~—1~2
+The centroid of the area bounded by the parabola y^2 = 4ax and the line x = p coincides with the focus of the parabola. Find the value of p.~2/5 a~3/5 a~5/3 a~5/2 a
+Find the differential equation whose general solution is y = Cix + 029*.~(x+ 1)y”—xy'+y= O~(x-1)y”+xy’+y=0~(x—1)y”—xy’+y=0~(x+ 1)y”+xy‘+y=0
+If the semiaxes of the ellipse 4x2 + 5y2 = 20 are each increased by 0.01 , find the approximate increase in the area.~0.1331~0.1313~0.3311~0.3131
+Find the general solution of y‘ = y sec x.~y=Csecxtanx~y=C(secx—tanx)~y=C(secx+tanx)~y=Csec2xtanx
+A certain college campus, 250 of the 3,500 coed enrolled are over 5 ft 6 inches in height. Find the probability that a coed chosen at random from the group of 3,500 has a height of less than 5 ft 6 inches.~11/14~3/14~13/14~1/14
+The expression 3 + j4 is a complex number. Compute its absolute value.~7~5~4~6
+If the radius of the sphere is increased by a factor of3, by what factor does the volume of the sphere change?~27~54~9~18
+Find the coordinates of an object that has been displaced from the point (-4, 9) by the vector 4i — 5].~(0, 4)~(4, 0)~(0, —4)~(—4, 0)
+What is the angle between the diagonal of a cube and one of its edges?~64.74°~54.74°~44.74°~74.74°
+The first term of a geometric sequence is 375 and the fourth term is 192. Find the common ratio.~5/4~3/2~2/3~4/5
+How many inches are there in 3 1/3 yards?~126~160~120~168
+A point where the concavity of a curve changes or when the slope of the curve is neither increasing nor decreasing is known as~point of tangency~maximum point~inflection point~minimal point
+A line passes through (2, 8) and parallel to the line through (2, 2) and (4, 5). Find its equation.~x—y+12=0~x+y+14=0~2x—y+16=0~x—2y+14=0
+A man who is on diet losses 24 lb in 3 months, 16 lb in the next 3 months and so on for a long time. What is the maximum total weight loss?~64~72~54~81
+Find the area of the circle with center at (1, 3) and tangent to the line 5x — 12y — 8 = 0.~26.39~29.36~28.27~27.28
+Find the work done in moving an object along a vector r = 3i + 2j — 5k if the applied force F = 2i —j — k.~9~10~15~16
+An air balloon ﬂying vertically upward at constant speed is situated 150 m horizontally from an observer. After one minute, it is found that the angle of elevation from the observer is 28 deg 59 min. What will be the angle of elevation after 3 minutes from its initial position?~63 deg 24 min~14 deg 07 min~28 deg 54 min~58 deg 58 min
+What is a so that the points (-2, —1, -3), (—1,0,-1)and (a, b, 3) are in a straight line?~1~3~4~2
+The value of all of the quarters and dimes in a parking meter is $18. There are twice as many quarters as dimes. What is the total number of dimes in the parking meter?~20~80~40~60
+A man is on a wharf4 m above the water surface. He pulls in a rope to which is attached a boat at the rate of 2 m/sec. How fast is the angle between the rope and the water surface changing when there are 20 m of rope out?~0.0204 rad/sec~0.0408 rad/sec~0.0804 rad/sec~0.0402 rad/sec
+In polar coordinate system, the polar angle is negative when:~measured counterclockwise~measured clockwise~measured at the terminal side of θ~none of these
+A stone, projected vertically upward with initial velocity 112 ft/sec, moves according to s = 112t — 16t^2, where s is the distance from the starting point. Compute the greatest height reached.~196ft~100ft~216ft~96ft
+Five scores and 4 years is equivalent to how many years?~54~49~104~29
+George has made a vow to jog for an average of one hour daily ﬁve days a week. He cut his workout short on Wednesday by 40 minutes but was able to make up 20 minutes on Thursday and 13 minutes on Friday. How many minutes of jogging did George lose for the week?~13 minutes~7 minutes~20 minutes~3 minutes
+Eli has a picture that is 25 inches by 19 inches and a frame that is 30 inches by 22 inches. He will make up the difference with a mat that will fit between the picture and the frame. What is the area of the mat he will need?~250 square inches~660 square inches~475 square inches~185 square inches
+If production line A can produce 12.5 units in an hour, and production line B can produce 15.25 units in an hour, how long will production line A have to work to produce the same amount of units as line B?~1.50 hours~1.72 hours~1 hour~1.22 hours
+Two trains leave the same city at the same time, one going east and the other going west. If one train is traveling at 65 mph and the other at 72 mph, how many hours will it take for them to be 822 miles apart?~8~7~6~9
+It takes light 5.3 X 10^6 seconds to travel one mile. What is this time in standard notation?~0.00000053~0.000053~5.300000~0.0000053
+A chemist mixed a solution that was 34% acid with another solution that was 18% acid to produce 3 30-ounce solution that was 28% acid. How much of the 34% acid solution did he use?~28~11.25~27~18.75
+Find the derivative of 1 /(3x^2 + 5)^4.~-24 / (3x^2 + 5)^5~-24 I (3x^2 + 5)^3~-24x / (3x^2 + 5)^3~-24X I (3x^2 + 5)^5
+Two towns A and B are, respectively, a miles and b miles from a railroad line. The points C and D on the line nearest to A and B, respectively, are at a distance of c miles from each other. A station S is to be located on the line so that the sum of the distances from A and B to S is minimal. Find the position of S.~bc/(a+b) from C~ac/(a+b) from C~ab/(a+b) from C~ab/(a+c) from C
+A businessman has a choice of two rental cars. One costs $40 per day with unlimited mileage. The other costs $25 per day plus 30 cents per mile. For what mileage is the $40 plan no more expensive than the other plan?~At least 50 miles per day~No more than 50 miles per day~At least 133 miles per day~No more than 133 miles per day
+What is the interval notation for x >= 4?~(4, ∞)~(4, ∞]~[4, ∞)~[4, ∞]
+Find the fourth term of the arithmetic sequence whose 30th term is -180 and whose 45th term is —300.~28~46~35~20
+Solve for x: log5 (2x — 7) = 1.~x=7~x=4~x=6~x=5
+What is the directrix for the parabola (y + 1)^2 = —6(x — 3)?~x=3/2~y=1/2~y=—5/2~x=9/2
+Which equation is the equation of a hyperbola with center (1, 0) and with asymptote y = 2x - 2?~(x-1)^2/4 - y^2/1 = 1~y^2 - (x-1)^2/4 = 1~(x-1)^2 - y^2/4 = 1~y^2/4 + (x-1)^2 = 1
+Large supermarkets often price miscellaneous merchandise at a price they know will sell fast and determine what they can pay for it by this selling price. The Piggley Market bought men's T-shirts to sell at $10 each. If they allow 40 percent of the selling price for expenses and profit, what will they be willing to pay for the shirts?~6~7~5~4
+In a 3-digit number, the hundreds digit is 4 more than the units digit and the tens digit is twice the hundreds digit. If the sum of the digits is 12, find the 3 digits. Find the number.~480~426~408~246
+The terms of a sum may be grouped in any manner without affecting the result. this is law known as:~Associative Law~Distributive Law~Commutative Law~Reﬂexive Law
+A yacht can travel 10 miles downstream in the same amount of time as it goes 6 miles upstream. If the velocity of the river current is 3 mph, find the speed of the yacht in still water.~15 mph~16 mph~18 mph~12 mph
+Lines L1 and L2 are perpendicular that intersect at the point (2, 3). If L1 passes through the point (0, 2), then line L2 must pass through the point:~(3,1)~(1,1)~(0,3)~(5,0)
+A semicircle of radius 14 cm is bent to form a rectangle whose length is 1 cm more than its width. Find the area of the rectangle.~233.57 cm^2~322.32 cm^2~233.75 cm^2~323.75 cm^2
+A square hole 2" x 2" is cut through a 6-inch diameter long along its diameter and perpendicular to its axis. Find the volume of wood that was removed.~34.62 cu. in.~23.54 cu. in.~21.78 cu. in.~27.32 cu. in.
+Find the equation of the bisector of the obtuse angle between the lines 2x + y = 4 and 4x — 2y = 7.~8x=15~4y=1~2y=3~8x+4y=6
+Find dy/dx if y = e^(sqrt(x)).~e^(sqrt(x))/2sqrt(x)~e^(sqrt(x))/sqrt(x)~e^(sqrt(x−2sqrt(x)))~e^(sqrt(x−2sqrt(x)))
+Find the slope of the tangent to the curve y = x^1 — 2x^2 + 8 through point (2, 16).~1/20~1/24~20~24
+Determine the period and amplitude of the function y = 5 sin x.~2π, 5~π, 5~π/2, 5~π/5
+The region in the first quadrant which is bounded by the curve y^2 = 4x, and the lines x = 4 and y = 0, is revolved about the x-axis. Locate the centroid of the resulting solid of revolution.~5/3~7/3~10/3~8/3
+Find the force on one face of a right triangle of sides 4 m, and altitude of 3 m. The altitude is submerged vertically with the 4m side in the surface.~66.27 kN~58.86 kN~62.64 kN~53.22 kN
+A clock has a minute hand 16 cm long and an hour hand 11 cm long. Find the distance between the outer tips of the hands at 2:30 o’clock.~20.6 cm~22.6 cm~19.6 cm~21.6 cm
+Find the radius of curvature of y = x^3 at the point (1, 1).~3.25~4.26~5.27~6.25
+Find the point on the curve y = x^3 — 3x for which the tangent line is parallel to the x-axis.~(1,2)~(2,2)~(—1, 2)~(0,0)
+

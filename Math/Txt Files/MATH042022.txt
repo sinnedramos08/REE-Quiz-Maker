@@ -1,0 +1,423 @@
+1.   At the city park,32% of the trees are oaks.lf there are 400 trees in the park,how many trees are NOT oaks?
+     A. 312                     B. 272                      C. 128                     D. 278	               ANSWER:B           CATEGORY:Algebra
+
+2.   At exactly what time after 5 o’clock will the hour hand and the minute hand be perpendicular for the first
+     time?
+     A. 5:05 and 34 seconds      B. 5:20 and 14 seconds      C. 5:15 and 25 seconds       D. 5:10 and 54 seconds	          ANSWER:D                CATEGORY::Algebra
+
+3.   A ball bounces 2/3 of the altitude from which it falls. Suppose the ball is dropped from a height of 18 ft. How
+     far will it travel before coming to rest?
+     A. 72 ft                    B. 80 ft                    C. 86 ft                     D. 90 ft	          ANSWER:D           CATEGORY:Algebra
+
+4.   A ball bounces 2/3 of the altitude from which it falls. Suppose the ball is dropped from a height of 18 ft. How
+     far will it travel before coming to rest?
+     A. 86m                        B.90m                      C.80m                     D.72m	          ANSWER:B           CATEGORY:Algebra
+
+5.   Determine the correct equation for the line with a slope of 7 and y-intercept of —4.
+     A.y=—7x+4                   B.y=—1/7x-4                 C.y=7x+4                     D.y=7x—4	          ANSWER:D           CATEGORY:Analytic Geometry
+
+6.   Evaluate lim as z approaches 1+i [(z — 1 — i)^2]/[(z sq. -2z+z)^2]      
+     A. —12 + 6i		B. —1/4		C. square root of 2 (1 + i)/2		D. —4/3 — 4i	          ANSWER:B           CATEGORY:Differential Calculus
+	 
+7.   Find the area of the region enclosed by the triangle with vertices (1, 1), (3, 2), and (2, 4).
+     A. 3/2                      B. 1/2                      C. 7/2                       D. 5/2           ANSWER:D           CATEGORY:Analytic Geometry
+
+8.   If the general equation of the conic is Ax2 + Bxy + Cy2 + Dx + Ey + F = 0 and BE — 4AC > 0, then the conic is.
+     A. parabola                 B. ellipse                  C. hyperbola                 D. circle           ANSWER:C           CATEGORY:Analytic Geometry
+
+9.   If one inch equals 2.54 centimeters, How many inches are there in 20.32 centimeters?
+     A. 10.2                     B. 8                        C. 9                         D. 7.2	          ANSWER:B           CATEGORY:Algebra
+
+10. Hotels, like airlines, often overbook, counting on the fact that some people with reservations will cancel at
+    the last minute. A certain hotel chain ﬁnds 20% of the reservation will not be used. lf 4 reservations are
+    made, what is the chance that fewer than two will cancel?
+    A. 0.7241                     B. 0.5211                 C. 0.8192                 D. 0.3825           ANSWER:C           CATEGORY:Algebra
+
+11. A chord of a circle of a diameter 10 ft is decreasing in length 1 ft/min. Find the rate of change ofthe smaller
+    arc subtended by the chord when the chord is 8 ft long.
+     A. 5/3 ft/min               B. 5 ft/min                 C. 3 ft/min                  D. 3/5 ft/min           ANSWER:A           CATEGORY:Geometry
+
+12. Evaluate integral of ln x dx from 1 to e.
+     A. 0                        B. 3                        C. 1                         D. 2           ANSWER:C           CATEGORY:Integral Calculus
+	 
+13. A periodic function has zero average value over a cycle and its Fourier series consists of only odd cosine
+    terms. What is the symmetry possessed by this function?
+    A. odd quarter-wave        B. odd                    C. even                     D. even quarter-wave           ANSWER:D           CATEGORY:Advanced Math
+
+14. Fred walks 0.75 miles to school; Raffy walks 1.3 miles; Fely walks 2.8 miles; and Beth walks 0.54 miles.
+    What is the total distance the four walk to school?
+    A. 4.13 miles               B. 5.39 miles             C. 5.63 miles             D. 4.78 miles           ANSWER:B           CATEGORY:Algebra
+
+15. 42% of 997 =
+    A. 990.24                    B. 418.74                       C. 499.44               D. 450.24           ANSWER:B           CATEGORY:Algebra
+
+16. A 20-ft light post casts a 25 ft long. At the same time, a building nearby casts a shadow 50 ft long. How tall
+    is the building?
+    A. 20ft                      B. 60ft                         C. 80ft                 D. 40ft           ANSWER:D           CATEGORY:Algebra
+
+17. Sand is being poured into a conical pile in such a way that the height is always 1/3 of the radius. At what
+    rate is sand being added to the pile when it is 4 ft high if the height is increasing at 2 in/min?
+	
+    A. 130 288.13 in^3/min       B. 53 288.13 in^3/min           C. 30 288.13 in^3/min   D. 100 132.88 in^3/min           ANSWER:A           CATEGORY:Differential Calculus
+
+18. The tangent of an angle of a right triangle is 0.75. What is the cosecant of the angle?
+    A. 1.414                  B. 1.667                    C. 1.732                    D. 1.333           ANSWER:B           CATEGORY:Trigonometry
+
+19. The line passing through the focus and perpendicularto the directrix ofa parabola
+    is called
+    A. latus rectum              B. axis'                        C. tangent line         D. secant line           ANSWER:B           CATEGORY:Analytic Geometry
+
+20. Find the volume generated by revolving the circle x^2 + y^2 + 6x + 4y + 12 = 0 about the y-axis.
+    A. 55.28                 B. 22.58                     C. 65.55                  D. 59.22            ANSWER:D           CATEGORY:Integral Calculus
+
+21. What is the ratio of the sides of a triangle if the product of the sines of its angle is a maximum?
+    A. 1:12                      B. 1:1:1                        C. 1:3:3                D. 1:2:2           ANSWER:B           CATEGORY:Trigonometry
+
+22. Larry finds the angle of elevation of the top of a tower to be 30 degrees. He walks 85 m nearer the tower
+    and finds its angle of elevation to be 80 degrees. What is the height of the tower?
+    A. 63.61 m                   B. 53.61 m                      C. 73.61 m              D. 83.61 m           ANSWER:C           CATEGORY:Trigonometry
+
+23. When a metallic ball bearing is placed inside a cylindrical container of radius 2 cm, the height of the water
+    inside the container increases by 0.6 cm. What is the radius of the ball bearing?
+    A. 2.2 cm                  B. 1.2 cm                 C. 1.8 cm                   D. 0.6 cm           ANSWER:B           CATEGORY:Geometry
+
+24. If log 2 = a, log 3 = b, log 5 = c, then log (7.5) =
+    A. c/(a + b)                  B. ab/c                        C. b + c - a            D. c/ab                ANSWER:C           CATEGORY:Algebra
+
+25. Four is added to the quantity two minus the sum of negative seven and six. This answer is then multiplied
+    by three. What is the result?
+    A. —21                      B. 21                    C. 57                     D. 15                ANSWER:B           CATEGORY:Algebra
+
+26. A spherical tank of radius 4 ft is full of gasoline when a circular bottom hole of radius 1 in is opened. How
+    long will be required for all the gasoline to drain from the tank?
+    A. 18 min 45 sec             B. 16 min 12 sec                C. 14 min 29 sec        D. 12 min 38 sec                ANSWER:C           CATEGORY:Differential Calculus
+
+27. Find the radian measure of the acute angle between the planes 5x — 2y + 52 — 12 = 0 and 2x+y—7z+11 =0.
+    A. pE/12                     B. pi/6                         C. pi/3                 D. pi/4		ANSWER:C           CATEGORY:Analytic Geometry
+
+28. A sequence of numbers where the succeeding term is greater than the preceding term is called:
+    A. dissonant series          B. isometric series             0. convergent series    D. divergent series		ANSWER:D           CATEGORY:Algebra
+
+29. In special rule of addition of probability, the events are always
+    A. Independent events    B. Bayesian     C. Mutually Exclusive Events     D. Empirical		ANSWER:C           CATEGORY:Statistics Probability
+	
+30. The temperature of a cup of coffee is 32 deg C and 15 minutes later its temperature is 24 deg C. If the temperature of the room remains constant at 22 deg C, find the temperature of the coffee after 20 minutes.
+    A. 24.31 deg C               B. 21.98 deg C                  C. 23.17 deg C          D. 22.71 deg C		ANSWER:C           CATEGORY:Integral Calculus
+
+31. Given vectors A = i +j + k and B = 2i — 3] + 5k, find A*B.
+    A.2i+3j+5k                 B. 4                          C.0                           D.2i—3j+5k		ANSWER:B           CATEGORY:Vector Analysis
+	
+32. Find the volume of a cone to be constructed from a sector having a diameter of 72 cm and a central angle of 150 degrees.
+      A. 7711.82                  B. 11799.32                  C. 8866.44                    D. 72422.42		ANSWER:A           CATEGORY:Geometry
+
+33. Find the length of arc of the polar curve r = a cos^3 (θ/3) from  θ = 0 to   θ= pi/2.
+      A. 2.42a                    B. 1.43a                     C. 2.24a                      D. 1.34a		ANSWER:B          CATEGORY:Integral Calculus
+
+34. What is the order and degree of the differential equation y''' + xy'' + 2y(y')^2 + xy = 0.
+    A. third order, first degree     B. second order, third degree                     C. ﬁrst order, second degree        D. third order, second degree		ANSWER:A           CATEGORY:Geometry
+	
+35. What is the coefficient of x^7 term in the Maclaurin series expansion of arctan x expanded about x = 0?
+    A. 1/5                      B. -1/5                    C. 1/7                     D. —1/7		ANSWER:D           CATEGORY:Differential Calculus
+
+36. The time a student spends learning a computer software package is normally distributed with a mean of 8 hours and standard deviation of 1.5 hours. A student is selected at random. What is the probability that the student spends less than 6 hours learning a software package?
+      A. 1                        B. 0.21                      C. 0.15                       D. 0.09		ANSWER:D           CATEGORY:Statistics Probability
+
+37. If f(x, y) n x2 + yz, find the rate of change of f(x, y) in the direction pi/4 at (3, 2).
+    A. 5.77                         B. 7.07                      C. 7.70                      D. 7.57
+
+38. A point P within an equilateral triangle has a distance of 4, 5, and 6 units respectively from the vertices.
+      Determine the lengths of the sides of the equilateral triangle.
+      A. 8.35                     B. 8.53                      C. 8.93                       D. 8.39
+
+39. In the oblique triangle ABC, side a = 6 cm, A = 38°, and C = 120°. Find side b.
+      A. 22 cm                    B. 8.44 cm                   C. 6 cm                       D. 3.65 cm
+
+40. Find the mass of the lamina of density 6(x,y) = x"2 that occupies the region R bounded by the parabola
+      y = 2 — x"2 and the line y = x.
+      A. 2.18                     B. 2.81                      C. 3.15                       D. 3.51
+
+41. If Jim and Jerry work together they can finish a job in 4 hours. If working alone takes Jim 10 hours to finish
+      the job, how many hours would it take Jerry to do the job alone?
+      A. 5.6                      B. 6.7                       C. 16                         D. 6.0
+
+42. A hand soap manufacturer introduced a new liquid, lotion-enriched, antibacterial soap and conducted an
+      extensive consumer survey to help judge the success of the new product. The survey showed 40% of the
+      consumers had seen an advertisement for the new soap, 20% had tried the new soap, and 15% had both
+      seen an advertisement and tried the new soap. lfa randomly selected consumer has seen an
+      advertisement for the new soap, what is the probability that this consumer has tried the new soap?
+      A. 37.5%                    B. 25%                       C. 72%                        D. 40%
+
+43. With 17 consonants and 5 vowels, how many words of four letters can be formed having 2 different vowels
+    in the middle and 1 consonant (repeated or different) at each end?
+    A. 5790                   B. 5780                     C. 5795               D. 5785
+
+44.   A and B can do a piece of work in 5 days, B and C in 4 days, while Aand C in 2.5 days. In how many days
+      can all of them do the work together? Troubleshoot: 5 days —> 3 days
+      A. 1.02                     B. 2.03                      C. 3.17                       D. 3.83
+
+45. Describe the locus represented by | z —i | = 2.
+      A. hyperbola                B. circie                    C. ellipse                    D. parabola
+
+46. Evaluate the inverse Laplace transform of 6 over (5A2 +4).
+      A. 3 cosh 2t                B. 3 sinh 2t                 C. cos 2t                     D. 3 sin 2t
+
+47. What is the value of k so that 2x2 + kx — 15 = 0 has one root = 3?
+      A. 1                        B. —2                        C. —1                         D. 2
+
+
+
+                                                         Page 3 of 7
+                              “THE ESTABLISHED LEADER IN E.E. REVIEW”
+                                             MANILA
+
+REGISTERED ELECTRICAL ENGINEERS Pre-board Examination
+Wednesday, March 30, 2022                                                                   08:00 AM — 01:00 PM
+
+MAIliﬂtlAIIQS
+
+48. The centroid of the area bounded by the parabola y2 = 4ax and the line x = p coincides with the focus ofthe
+    parabola. Find the value of p.
+    A. 2/5 a                    B. 3/5 a                     C. 5/3 a                   D. 5/2 a
+
+49. Find the differential equation whose general solution is y = Cix + 029*.
+    A. (x+ 1)y”—xy'+y= O        B. (x-1)y”+xy’+y=0           C. (x—1)y”—xy’+y=0 D. (x+ 1)y”+xy‘+y=0
+
+50. If the semiaxes of the ellipse 4x2 + 5y2 = 20 are each increased by 0.01 , find the approximate increase in
+    the area.
+    A. 0.1331                   B. 0.1313                    C. 0.3311                  D. 0.3131
+
+51. Find the general solution of y‘ = y sec x.
+    A.y=Csecxtanx              B.y=C(secx—tanx)              C.y=C(secx+tanx)           D.y=Csec2xtanx
+
+52. A certain college campus, 250 of the 3,500 coed enrolled are over 5 ft 6 inches in height. Find the
+    probability that a coed chosen at random from the group of 3,500 has a height of less than 5 ft 6 inches.
+    A. 11/14                    B. 3/14                      C. 13/14                   D. 1/14
+
+53. The expression 3 + j4 is a complex number. Compute its absolute value.
+    A. 7                       B. 5                   C. 4                              D. 6
+
+54. If the radius ofthe sphere is increased by a factor of3, by what factor does the volume of the sphere
+    change?
+    A. 27                       B. 54                        C. 9                       D. 18
+
+55. Find the coordinates of an object that has been displaced from the point (-4, 9) by the vector 4i — 5].
+    A. (0, 4)                  B. (4, O)                 C. (O, —4)                  D. (—4, 0)
+
+56. What is the angle between the diagonal of a cube and one of its edges?
+    A. 64.74"                B. 54.74°                 C. 44.74“                        D. 74.74“
+
+57. The first term of a geometric sequence is 375 and the fourth term is 192. Find the common ratio.
+    A. 5/4                     B. 3/2                    C. 2/3                      D. 4/5
+
+58. How many inches are there in 3 1/3 yards?
+    A. 126                  B. 160                           C. 120                     D. 168
+
+59. A point where the concavity of a curve changes or when the slope of the curve is neither increasing nor
+    decreasing is known as
+    A. point of tangency        B. maximum point             C. inflection point        D. minimal point
+
+60. A line passes through (2, 8) and parallel to the line through (2, 2) and (4, 5). Find its equation.
+    Troubleshoot: (-2, 2)
+    A.x—y+12=0                  B.x+y+14=0                   C.2x—y+16=0                D.x—2y+14=0
+
+61. A man who is on diet losses 24 lb in 3 months, 16 lb in the next 3 months and so on for a long time. What is
+    the maximum total weight loss?
+    A. 64                       B. 72                        C. 54                      D. 81
+
+62. Find the area of the circle with center at (1, 3) and tangent to the line 5x — 12y — 8 = 0.
+    A. 26.39                    B. 29.36                    C. 28.27                    D. 27.28
+
+63. Find the work done in moving an object along a vector r = 3i + 2] — 5k if the applied force F = 2i —j — k.
+    A.9                       B10                       C15                           D16
+
+64. An air balloon ﬂying vertically upward at constant speed is situated 150 m horizontally from an observer.
+    After one minute, it is found that the angle of elevation from the observer is 28 deg 59 min. What will be the
+    angle of elevation after 3 minutes from its initial position?
+    A. 63 deg 24 min            B. 14 deg 07 min             C. 28 deg 54 min           D. 58 deg 58 min
+
+
+
+
+                                                       Page 4 of 7
+                              “THE ESTABLISHED LEADER IN E.E. REVIEW”
+                                             MANILA
+
+REGISTERED ELECTRICAL ENGINEERS Pre-board Examination
+Wednesday, March 30, 2022                                                                 08:00 AM — 01:00 PM
+
+MAIHEMAIIQS
+
+65. What is a so that the points (-2, —1, -3), (—1,0,-1)and (a, b, 3) are in a straight line?
+    A. 1                        B. 3                         C. 4                      D. 2
+
+66. The value of all of the quarters and dimes in a parking meter is $18. There are twice as many quarters as
+    dimes. What is the total number of dimes in the parking meter? Troubleshoot: twice as many dimes as
+    quarters
+    A. 20                       B. 80                     C. 40                      D. 60
+
+67. A man is on a wharf4 m above the water surface. He pulls in a rope to which is attached a boat at the rate
+    of 2 m/sec. How fast is the angle between the rope and the water surface changing when there are 20 m of
+    rope out?
+    A. 0.0204 rad/sec           B. 0.0408 rad/sec            C. 0.0804 rad/sec         D. 0.0402 rad/sec
+
+68. In polar coordinate system, the polar angle is negative when:
+    A. measured at the terminal side of 6                 C. measured clockwise
+    B. measured counterclockwise                          D. none of these
+
+69. A stone, projected vertically upward with initial velocity 112 ft/sec, moves according to s = 112t — 16t2, where
+    s is the distance from the starting point. Compute the greatest height reached.
+    A.196ft                     B. 100ft                     C. 216ft                  D. 96ft
+
+70. Five scores and 4 years is equivalent to how many years?
+    A. 54                       B. 49                        C. 104                    D. 29
+
+71. George has made a vow to jog for an average of one hour daily ﬁve days a week. He cut his workout short
+    on Wednesday by 40 minutes but was able to make up 20 minutes on Thursday and 13 minutes on Friday.
+    How many minutes ofjogging did George lose for the week?
+    A. 13 minutes          B. 7 minutes               C. 20 minutes                    D. 3 minutes
+
+72. Eli has a picture that is 25 inches by 19 inches and a frame that is 30 inches by 22 inches. He will make up
+    the difference with a mat that will fit between the picture and the frame. What is the area of the mat he will
+    need?
+    A. 250 square inches        B. 660 square inches         C. 475 square inches      D. 185 square inches
+
+73. If production line Acan produce 12.5 units in an hour, and production line B can produce 15.25 units in an
+    hour ,how long will production line A have to work to produce the same amount of units as line B?
+    A. 1.50 hours              B. 1.72 hours              C. 1 hour                 D. 1.22 hours
+
+74. Two trains leave the same city at the same time, one going east and the other going west. If one train is
+    traveling at 65 mph and the other at 72 mph, how many hours will it take for them to be 822 miles apart?
+    A. 8                        B. 7                         C. 6                      D. 9
+
+75. It takes light 5.3 X 10'6 seconds to travel one mile. What is this time in standard notation?
+    A. 0.00000053               B. 0.000053                  C. 5.300000               D. 0.0000053
+
+76. A chemist mixed a solution that was 34% acid with another solution that was 18% acid to produce 3
+    30-ounce solution that was 28% acid. How much of the 34% acid solution did he use?
+    A. 28                     B. 11.25                  C. 27                     D. 18.75
+
+77. Find the derivative of 1 /(3x2 + 5)4.
+    A. -24 I (3x2 + 5)3         B. —24x / (3X2 + 5)3         C. -24 / (3X2 + 5)5       D. -24X I (3x2 + 5)5
+
+78. Two townsAand B are, respectively, a miles and b miles from a railroad line. The points C and D on the line
+    nearest to A and B, respectively, are at a distance of c miles from each other. A station S is to be located on
+    the line so that the sum ofthe distances from A and B to S is minimal. Find the position of S.
+    A. bc/(a+b)fromC           B. ac/(a+b)fromC            C. ab/(a+b)fromC           D. ab/(a+c)fromC
+
+79. A businessman has a choice of two rental cars. One costs $40 per day with unlimited mileage. The other
+    costs $25 per day plus 30 cents per mile. For what mileage is the $40 plan no more expensive than the
+    other plan?
+    A. At least 50 miles per day                             C. No more than 50 miles per day
+    B. At least 133 miles per day                            D. No more than 133 miles per day
+
+                                                       Page 5 of 7
+                              “THE ESTABLISHED LEADER IN E.E. REVIEW”
+                                             MANILA
+
+REGISTERED ELECTRICAL ENGINEERS Pre-board Examination
+Wednesday, March 30, 2022                                                                     08:00 AM — 01:00 PM
+
+MAIHEMAIIQS
+
+80. What is the interval notation for x 2 4?
+    A. (—°°, 4)                  B. (—°°, 4]                C. (4, on)                    D. [4, on)
+
+81. Find the fourth term of the arithmetic sequence whose 30th term is -180 and whose 45th term is —300.
+    A. 28                        B. 46                      C. 35                         D. 20
+
+82. Solve for x: log5 (2x — 7) = 1.
+    A.x=7                        B.x=4                      C.x=6                         D.x=5
+
+83. What is the directrix forthe parabola (y + 1)2 =—6(x — 3)?
+    A.x=3/2                      B.y=1/2                    C.y=—5/2                      D.x=9/2
+
+84. Which equation is the equation of a hyperbola with center (1, 0) and with asymptote y = 2x - 2?
+    A.(x—1)2/4—y2=1              B.yZ—(X-"i)2/4=’i          C.(x-1)2-y2/4=1               D.y2/4+(x—1)2=1
+
+85. Large supermarkets often price miscellaneous merchandise at a price they know will sell fast and determine
+    what they can pay for it by this selling price. The Piggley Market bought men's T-shirts to sell at $10 each. If
+    they allow 40 percent of the selling price for expenses and proﬁt, what will they be willing to pay for the
+    shirts?
+    A. 6                         B. 7                       C. 5                          D. 4
+
+86. In a 3-digit number, the hundreds digit is 4 more than the units digit and the tens digit is twice the hundreds
+    digit. lfthe sum of the digits is 12, find the 3 digits. Find the number.
+    A. 480                       B. 426                     C. 408                        D. 246
+
+87. The terms of a sum may be grouped in any manner without affecting the result. this is law known as:
+    A. Distributive Law     B. Reﬂexive Law          C. Associative Law           D. Commutative Law
+
+88. A yacht can travel 10 miles downstream in the same amount of time as it goes 6 miles upstream. If the
+    velocity of the river current is 3 mph, find the speed ofthe yacht in still water.
+    A. 15 mph                    B. 16 mph                  C. 18 mph                  D. 12 mph
+
+89. Lines L, and L2 are perpendicular that intersect at the point (2, 3). If L1 passes through the point (0, 2), then
+    line L2 must pass through the point
+    A.(3,1)                      B.(1,1)                    C.(0,3)                       D.(5,0)
+
+90. A semicircle of radius 14 cm is bent to form a rectangle whose length is 1 cm more than its width. Find the
+    area of the rectangle.
+    A. 233.57 cm2                B. 322.32 cm2              C. 233.75 cm2                 D. 323.75 cm2
+
+91. A square hole 2" x 2" is cut through a 6-inch diameter long along its diameter and perpendicular to its axis.
+    Find the volume of wood that was removed.
+    A. 34.62 cu. in.             B. 23.54 cu. in.           C. 21.78 cu. in.              D. 27.32 cu. in.
+
+92. Find the equation of the bisector of the obtuse angle between the lines 2x + y = 4 and 4x — 2y = 7
+    A.8x=15                    B.4y=1                     C.2y=3                     D.8x+4y=6
+
+93. Find dy/dx if y = e"sqrt of x.
+    A. e‘x/2sqrt ofx                                        C. e‘sqrt ofx/qurt ofx
+    B. e"sqrt ofx/sqrt ofx                                  D. e"(sqrtofx— 2sqrt ofx)
+
+94. Find the slope of the tangent to the curve y = x‘1 — 2x2 + 8 through point (2, 16).
+    A. 1/20                      B. 1/24                    C. 20                         D. 24
+
+95. Determine the period and amplitude of the function y = 5 sin x.
+    A. 3rr/2, 5              B. 211, 5                   C. 1T, 5                         D. Tr/2, 5
+
+96. The region in the first quadrant which is bounded by the curve y"2 = 4x, and the lines x = 4 and y = 0, is
+    revolved about the x-axis. Locate the centroid of the resulting solid of revolution.
+    A. 5/3                       B. 7/3                     C. 10/3                       D. 8/3
+
+
+
+                                                      Page 6 of 7
+                              “THE ESTABLISHED LEADER IN E.E. REVIEW”
+                                             MANILA
+
+REGISTERED ELECTRICAL ENGINEERS Pre-board Examination
+Wednesday, March 30, 2022                                                                    08:00 AM — 01:00 PM
+
+MAIHEMAIIQS
+
+97. Find the force on one face of a right triangle of sides 4 m, and altitude of 3 m. The altitude is submerged
+    vertically with the 4m side in the surface.
+    A. 66.27 kN                 B. 58.86 kN                  C. 62.64 kN                 D. 53.22 kN
+
+98. A clock has a minute hand 16 cm long and an hour hand 11 cm long. Find the distance between the outer
+    tips of the hands at 2:30 o’clock.
+    A. 20.6 cm                  B. 22.6 cm            C. 19.6 cm                 D. 21.6 cm
+
+99. Find the radius of curvature of y = x3 at the point (1, 1).
+    A. 3.25                    B. 4.26                       C. 5.27                     D. 6.25
+
+100. Find the point on the curve y = x3 — 3x for which the tangent line is parallel to the x-axis.
+     A. (1,2)                   B. (2,2)                    C. (—1, 2)                    D. (0,0)
+
+
+
+
+                                                     *** END *ir'k
+
+
+
+
+        WARNING:          Fallure to submlt your Test Questions (Complete) set wlll
+                          cause the cancellatlon of your Test-Results for the subject
+
+
+
+
+                                                       Page 7 of 7
+
